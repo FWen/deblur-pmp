@@ -1,6 +1,17 @@
-# deblur-pmp
+#Deblur-PMP
 Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization
 
-
-This code is used to reproducing the results in the paper: 
+This code is used to reproduce the results of the PMP based deblurring algortihm in the paper: 
 F. Wen, R. Ying, P. Liu and T.-K. Truong, "Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization," 2019.
+
+This code is modified from that of Pan at http://vllab1.ucmerced.edu/∼jinshan/projects/dark-channel-deblur/, 
+details please see the paper "J. Pan, D. Sun, H. Pfister, and M.-H. Yang, Blind image deblurring using dark channel prior, CVPR, 2016". 
+
+Note that, some codes of Pan, also with some codes from Cho and Whyte, are directly reused here to facilitate the ease of use for interested readers who want to reproduce the result of our algorithm. We copy them here only for academic use purpose to demonstrate the result of our algorithm reported in our paper.
+
+Moreover, for ease of use and only for academic use purpose to illustrate the results of our algorithm,
+We have copied here the blurred images from the following two datasets (see the 'BlurryImages' and 'Levin_data' folders):
+(1) R. Kohler, M. Hirsch, B. J. Mohler, B. Scholkopf, and S. Harmeling, “Recording and playback of camera shake: Benchmarking blind deconvolution with a real-world database,” in Proc. Eur. Conf. Comput. Vis., 2012, pp. 27–40.
+(2) A. Levin, Y. Weiss, F. Durand, and W. T. Freeman, “Understanding and evaluating blind deconvolution algorithms,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., 2009, pp. 1964–1971.
+
+Meanwhile, some sample images form Pan are also used here, please see the 'sample_images' folder.
