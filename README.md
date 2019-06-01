@@ -8,7 +8,7 @@ F. Wen, R. Ying, P. Liu and T.-K. Truong, "Blind Image Deblurring Using Patch-Wi
 This code is modified from that of Pan at http://vllab1.ucmerced.edu/∼jinshan/projects/dark-channel-deblur/, 
 details please see the paper "J. Pan, D. Sun, H. Pfister, and M.-H. Yang, Blind image deblurring using dark channel prior, CVPR, 2016". 
 
-Note that, some codes of Pan, also with some codes from Cho and Whyte, are directly reused here. We copy them here only for academic use purpose to demonstrate the result of our algorithm reported in our paper.
+Note that, some codes of Pan, also some codes from Cho and Whyte, are directly reused here. We copy them here only for academic use purpose to demonstrate the result of our algorithm reported in our paper.
 
 Moreover, for ease of use for interested readers who want to reproduce the result of our algorithm
 and only for academic use purpose,
