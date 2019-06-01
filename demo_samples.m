@@ -9,7 +9,7 @@ opts.k_thresh = 20;
 %% Note:
 %% lambda_tv, lambda_l0, weight_ring are non-necessary, they are not used in kernel estimation.
 
-for ki=20
+for ki=1:30
     opts.gamma_correct = 1.0;    
     switch ki
     case 1
