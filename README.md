@@ -12,7 +12,7 @@ Note that, some codes of Pan, also with some codes from Cho and Whyte, are direc
 
 Moreover, for ease of use for interested readers who want to reproduce the result of our algorithm
 and only for academic use purpose,
-We have copied here the blurred images from the following two datasets (see the 'BlurryImages' and 'Levin_data' folders):
+we have copied here the blurred images from the following two datasets (see the 'BlurryImages' and 'Levin_data' folders):
 (1) R. Kohler, M. Hirsch, B. J. Mohler, B. Scholkopf, and S. Harmeling, “Recording and playback of camera shake: Benchmarking blind deconvolution with a real-world database,” in Proc. Eur. Conf. Comput. Vis., 2012, pp. 27–40.
 (2) A. Levin, Y. Weiss, F. Durand, and W. T. Freeman, “Understanding and evaluating blind deconvolution algorithms,” in Proc. IEEE Conf. Comput. Vis. Pattern Recognit., 2009, pp. 1964–1971.
 
