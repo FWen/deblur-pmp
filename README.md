@@ -45,4 +45,5 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 **Estimated kernels:**
 
 ## (4) Computaional complexity:
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/runtime.png?raw=true" width="500" />
+
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/runtime.png" width="500" />
