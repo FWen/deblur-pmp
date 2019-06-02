@@ -21,8 +21,15 @@ The results on these two datasets reported in the paper can be reproduced via di
 Meanwhile, some sample images form Pan are also used here, please see the 'sample_images' folder.
 
 
-# Results on the dataset of Kohler et al.
+# Results on the dataset of Kohler et al.:
+PSNR results:
+![Image text](https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/PSNR.png)
 
 
-# Results on the dataset of Levin et al.
+# Results on the dataset of Levin et al.:
+Success Rate versus Error Ratio:
+![Image text](https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Success%20Rate.png)
+
+
+Estimated kernels:
 ![Image text](https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Kernels.png)
