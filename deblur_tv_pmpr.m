@@ -1,6 +1,6 @@
 function S = deblur_tv_pmpr(Im, kernel, lambda, mu, opts)
 
-%Deblurring based on L0-Total variation and pixel thresholding
+%Deblurring based on L0-Total variation and PMP thresholding
 S = Im;
 alphamax = 1e5;
 [M,N,D] = size(Im);
