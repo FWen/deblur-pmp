@@ -48,12 +48,12 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 
 ## (3) Samples of deblurring comparison:
 
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/face_comp.jpg" width="1500" />
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/comp/face_comp.jpg" width="1500" />
 
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/natural_comp.jpg" width="1500" />
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/comp/natural_comp.jpg" width="1500" />
 
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/text_comp.jpg" width="1500" />
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/comp/text_comp.jpg" width="1500" />
 
 ## (4) Computaional complexity:
 
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/runtime.png" width="500" />
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/comp/runtime.png" width="500" />
