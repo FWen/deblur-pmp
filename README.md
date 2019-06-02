@@ -19,3 +19,9 @@ The results on these two datasets reported in the paper can be reproduced via di
 
 
 Meanwhile, some sample images form Pan are also used here, please see the 'sample_images' folder.
+
+
+Results on the dataset of Kohler et al.
+
+
+
