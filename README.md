@@ -46,6 +46,13 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Kernels.png?raw=true" width="500" />
 
+## (3) Samples of deblurring comparison:
+
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/face_comp.jpg" width="500" />
+
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/natural_comp.jpg" width="500" />
+
+
 ## (4) Computaional complexity:
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/runtime.png" width="500" />
