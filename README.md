@@ -26,7 +26,8 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/PSNR.png" width="500" />
 
-**PSNR results on the 48 blurred images (4*12):**
+**PSNR results on the 48 blurred images (4*12):
+
    36.0522   36.2223   37.9037   35.7582   34.7966   34.5660   33.8855   27.8220   27.3885   27.2955   26.7668   33.2083
    29.3671   30.4053   29.9556   29.4717   28.6813   27.8232   29.0712   22.1998   20.3863   20.7281   24.5929   27.9082
    36.4917   35.8153   34.8811   35.3276   35.9102   34.1285   35.4537   28.0253   23.6046   28.1864   26.1097   34.0165
