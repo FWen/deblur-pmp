@@ -22,8 +22,7 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 
 ## Results on the dataset of Kohler et al.:
 **PSNR results:
-![Image text](https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/PSNR.png)
-
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/PSNR.png" width="300" height="450" />
 
 ## Results on the dataset of Levin et al.:
 **Success Rate versus Error Ratio:
