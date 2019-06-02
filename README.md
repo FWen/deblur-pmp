@@ -25,4 +25,4 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 
 
 # Results on the dataset of Levin et al.
-![Image text](https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Kernels.png?raw=true)
+![Image text](https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Kernels.png)
