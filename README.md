@@ -2,7 +2,7 @@
 
 
 This code is used to reproduce the results of the PMP based deblurring algortihm in the paper: 
-F. Wen, R. Ying, P. Liu and T.-K. Truong, "Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization," 2019.
+F. Wen, R. Ying, P. Liu and T.-K. Truong, "Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization," arXiv preprint arXiv:1906.06642, 2019.
 
 This code is modified from that of Pan at http://vllab1.ucmerced.edu/∼jinshan/projects/dark-channel-deblur/, 
 details please see the paper "J. Pan, D. Sun, H. Pfister, and M.-H. Yang, Blind image deblurring using dark channel prior, CVPR, 2016". 
