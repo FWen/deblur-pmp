@@ -1,4 +1,4 @@
-# Deblur-PMP: Efficient Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization
+# Efficient Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization
 
 
 This code is used to reproduce the results of the PMP based deblurring algortihm in the paper: 
