@@ -42,6 +42,6 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Levin_PSNR_SSIM_table.png?raw=true" width="300" />
 
-## (3) Computaional complexity:
+## (3) Computational complexity:
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/comp/runtime.png" width="500" />
