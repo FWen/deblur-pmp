@@ -25,10 +25,9 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 **Average PSNR results:**
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/PSNR.png" width="500" />
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM.png" width="600" />
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM_table.png" width="300" />
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM.png" width="600" /> <img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM_table.png" width="300" />
 
-%**PSNR results on the 48 blurred images (4*12):**
+**PSNR results on the 48 blurred images (4*12):**
 
    im1: 36.0522   36.2223   37.9037   35.7582   34.7966   34.5660   33.8855   27.8220   27.3885   27.2955   26.7668   33.2083
    
