@@ -24,10 +24,12 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 
 **PSNR and SSIM results:**
 
-Quantitative evaluation results on the benchmark dataset of Kohler et al. [50] (PSNR and SSIM comparison over 48 blurry images):
+Quantitative evaluation results on the benchmark dataset of Kohler et al. (PSNR and SSIM comparison over 48 blurry images):
+
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM.png" width="600" /> 
 
-Quantitative results on the dataset of Kohler \textit{et al.} \cite{12}, including the average PSNR and average SSIM:
+Average PSNR and average SSIM on the dataset of Kohler et al.:
+
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM_table.png" width="300" />
 
 
@@ -36,9 +38,11 @@ Quantitative results on the dataset of Kohler \textit{et al.} \cite{12}, includi
 **PSNR and SSIM results:**
 
 Quantitative evaluation results on the benchmark dataset of Levin et al. [2] (PSNR and SSIM comparison over 32 blurry images):
+
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Levin_PSNR_SSIM.png?raw=true" width="500" />
 
-Quantitative results on the dataset of Levin \textit{et al.} \cite{5}, including the average PSNR and average SSIM:
+Average PSNR and average SSIM on the dataset of Levin et al.:
+
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Levin_PSNR_SSIM_table.png?raw=true" width="500" />
 
 ## (3) Computaional complexity:
