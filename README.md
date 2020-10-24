@@ -22,39 +22,25 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 
 ## (1) Results on the dataset of Kohler et al.:
 
-**Average PSNR results:**
+**PSNR and SSIM results:**
 
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/PSNR.png" width="500" />
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM.png" width="600" /> <img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM_table.png" width="300" />
+Quantitative evaluation results on the benchmark dataset of Kohler et al. [50] (PSNR and SSIM comparison over 48 blurry images):
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM.png" width="600" /> 
 
-**PSNR results on the 48 blurred images (4*12):**
+Quantitative results on the dataset of Kohler \textit{et al.} \cite{12}, including the average PSNR and average SSIM:
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM_table.png" width="300" />
 
-   im1: 36.0522   36.2223   37.9037   35.7582   34.7966   34.5660   33.8855   27.8220   27.3885   27.2955   26.7668   33.2083
-   
-   im2: 29.3671   30.4053   29.9556   29.4717   28.6813   27.8232   29.0712   22.1998   20.3863   20.7281   24.5929   27.9082
-   
-   im3: 36.4917   35.8153   34.8811   35.3276   35.9102   34.1285   35.4537   28.0253   23.6046   28.1864   26.1097   34.0165
-   
-   im4: 32.5411   31.9556   30.9590   32.2564   33.9447   28.8540   29.9345   21.5454   21.1881   24.4648   23.1017   28.2262
 
 ## (2) Results on the dataset of Levin et al.:
 
-**Success Rate versus Error Ratio:**
+**PSNR and SSIM results:**
 
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Success%20Rate.png" width="500" />
+Quantitative evaluation results on the benchmark dataset of Levin et al. [2] (PSNR and SSIM comparison over 32 blurry images):
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Levin_PSNR_SSIM.png?raw=true" width="500" />
 
-**Estimated kernels:**
+Quantitative results on the dataset of Levin \textit{et al.} \cite{5}, including the average PSNR and average SSIM:
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Levin_PSNR_SSIM_table.png?raw=true" width="500" />
 
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Kernels.png?raw=true" width="500" />
-
-## (3) Samples of deblurring comparison:
-
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/comp/face_comp.jpg" width="1500" />
-
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/comp/natural_comp.jpg" width="1500" />
-
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/comp/text_comp.jpg" width="1500" />
-
-## (4) Computaional complexity:
+## (3) Computaional complexity:
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/comp/runtime.png" width="500" />
