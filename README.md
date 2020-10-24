@@ -23,26 +23,22 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 
 ## (1) Results on the dataset of Kohler et al.:
 
-**PSNR and SSIM results:**
-
-Quantitative evaluation results on the benchmark dataset of Kohler et al. (PSNR and SSIM comparison over 48 blurry images):
+**Quantitative evaluation results on the benchmark dataset of Kohler et al. (PSNR and SSIM comparison over 48 blurry images)**
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM.png" width="600" /> 
 
-Average PSNR and average SSIM on the dataset of Kohler et al.:
+**Average PSNR and average SSIM on the dataset of Kohler et al.**
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_eccv12/Kohler_PSNR_SSIM_table.png" width="300" />
 
 
 ## (2) Results on the dataset of Levin et al.:
 
-**PSNR and SSIM results:**
-
-Quantitative evaluation results on the benchmark dataset of Levin et al. [2] (PSNR and SSIM comparison over 32 blurry images):
+**Quantitative evaluation results on the benchmark dataset of Levin et al. [2] (PSNR and SSIM comparison over 32 blurry images)**
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Levin_PSNR_SSIM.png?raw=true" width="500" />
 
-Average PSNR and average SSIM on the dataset of Levin et al.:
+**Average PSNR and average SSIM on the dataset of Levin et al.:**
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Levin_PSNR_SSIM_table.png?raw=true" width="300" />
 
