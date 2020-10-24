@@ -43,7 +43,7 @@ Quantitative evaluation results on the benchmark dataset of Levin et al. [2] (PS
 
 Average PSNR and average SSIM on the dataset of Levin et al.:
 
-<img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Levin_PSNR_SSIM_table.png?raw=true" width="500" />
+<img src="https://github.com/FWen/deblur-pmp/blob/master/results_Levin/Levin_PSNR_SSIM_table.png?raw=true" width="300" />
 
 ## (3) Computaional complexity:
 
