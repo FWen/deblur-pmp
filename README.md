@@ -45,8 +45,7 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/comp/runtime.png" width="500" />
 
 
-## Citation
-
+## Citation\\
 @article{2021pmpDeblur,
   title={A Simple Local Minimal Intensity Prior and an Improved Algorithm for Blind Image Deblurring},
   author={Wen, Fei and Ying, Rendong and Liu, Yipeng and Liu, Peilin and Truong, Trieu-Kien},
