@@ -3,7 +3,7 @@
 
 This code is used to reproduce the results of the PMP based deblurring algortihm in the paper: 
 
-F. Wen, R. Ying, Y. Liu, P. Liu and T.-K. Truong, "A Simple Local Minimal Intensity Prior and An Improved Algorithm for Blind Image Deblurring," IEEE Trans Circuits and Systems for Video Technology, DOI:10.1109/TCSVT.2020.3034137, 2020.
+F. Wen, R. Ying, Y. Liu, P. Liu and T.-K. Truong, "A Simple Local Minimal Intensity Prior and An Improved Algorithm for Blind Image Deblurring," IEEE Trans Circuits and Systems for Video Technology, vol. 31, no. 8, pp. 2923-2937, 2021.
 
 This code is modified from that of Pan at http://vllab1.ucmerced.edu/∼jinshan/projects/dark-channel-deblur/. 
 Note that, some codes of Pan, also some codes from Cho and Whyte, are directly reused here. We copy them here only for academic use purpose.
@@ -43,3 +43,17 @@ Meanwhile, some sample images form Pan are also used here, please see the 'sampl
 ## (3) Computational complexity:
 
 <img src="https://github.com/FWen/deblur-pmp/blob/master/results_samples/comp/runtime.png" width="500" />
+
+
+## Citation
+
+@article{2021pmpDeblur,
+  title={A Simple Local Minimal Intensity Prior and an Improved Algorithm for Blind Image Deblurring},
+  author={Wen, Fei and Ying, Rendong and Liu, Yipeng and Liu, Peilin and Truong, Trieu-Kien},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={31},
+  number={8},
+  pages={2923--2937},
+  year={2021},
+  publisher={IEEE}
+}
