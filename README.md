@@ -1,8 +1,7 @@
 # Efficient Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization
 
 
-This code is used to reproduce the results of the PMP based deblurring algortihm in the paper: 
-
+This code is used to reproduce the results of the PMP based deblurring algortihm in the paper:  
 F. Wen, R. Ying, Y. Liu, P. Liu and T.-K. Truong, "A Simple Local Minimal Intensity Prior and An Improved Algorithm for Blind Image Deblurring," IEEE Trans Circuits and Systems for Video Technology, vol. 31, no. 8, pp. 2923-2937, 2021.
 
 This code is modified from that of Pan at http://vllab1.ucmerced.edu/∼jinshan/projects/dark-channel-deblur/. 
